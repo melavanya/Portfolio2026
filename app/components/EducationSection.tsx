@@ -26,7 +26,6 @@ export function EducationSection() {
                 <div className="flex-grow">
                   <h3 className="text-lg font-semibold mb-1">{item.degree}</h3>
                   <div className="text-primary font-medium mb-1">{item.institution}</div>
-                  <div className="text-sm text-muted-foreground">{item.period}</div>
                   {item.details && (
                     <p className="text-sm text-muted-foreground mt-2">{item.details}</p>
                   )}
