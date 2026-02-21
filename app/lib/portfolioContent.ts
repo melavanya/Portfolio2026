@@ -34,8 +34,8 @@ export const portfolioContent = {
         skills: ["AWS", "Docker", "Kubernetes", "Openshift", "CI/CD", "GitHub Actions", "Vercel", "Nginx", "Heroku", "Netlify"]
       },
       {
-        name: "Leadership & Process",
-        skills: ["Team Leadership", "Agile/Scrum", "Code Review", "Mentoring", "Architecture Design", "Technical Writing"]
+        name: "Leadership & Process & Tools",
+        skills: ["Gen AI", "Github Copilot", "Team Leadership", "Agile/Scrum", "Code Review", "Mentoring", "Architecture Design", "Technical Writing"]
       }
     ]
   },
@@ -150,7 +150,7 @@ export const portfolioContent = {
     title: "Education & Certifications",
     items: [
       {
-        institution: "Visvesvaraya Technological University",
+        institution: "VTU",
         degree: "Bachelor of Engineering in Electronics and Communication",
         details: "Focus on Electronics and Semiconductors integrating with computer technologies."
       },
@@ -160,7 +160,7 @@ export const portfolioContent = {
         details: "Focus on Web Designing, Application development & Mobile App development."
       },
       {
-        institution: "Thinkful Bootcamp",
+        institution: "Thinkful",
         degree: "Career Accelerator in Full Stack Web Development",
         details: "Focus on full-stack JavaScript development, including MongoDB, Express, React, and Node.js."
       }

@@ -15,13 +15,13 @@ export function ContactSection() {
         </p>
 
         {/* Email CTA */}
-        <div className="mb-12">
+        <div className="mb-12 flex justify-center px-4">
           <a
             href={`mailto:${contact.email}`}
-            className="inline-flex items-center gap-3 px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium text-lg hover:bg-primary/90 transition-all shadow-soft hover:shadow-lg"
+            className="flex items-center gap-3 px-6 py-4 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-all shadow-soft hover:shadow-lg break-all"
           >
-            <Mail size={24} />
-            {contact.email}
+            <Mail size={24} className="flex-shrink-0" />
+            <span>{contact.email}</span>
           </a>
         </div>
 
