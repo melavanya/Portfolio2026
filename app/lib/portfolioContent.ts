@@ -194,7 +194,7 @@ export const portfolioContent = {
   contact: {
     title: "Let's Connect",
     description: "I'm always interested in hearing about new opportunities, collaborations, or just chatting about technology. Feel free to reach out!",
-    email: "lavanya.sethuraman@techempowers.org",
+    email: "lavanya.sethuraman23@gmail.com",
     github: "https://github.com/melavanya",
     linkedin: "https://www.linkedin.com/in/melavanya/"
   }
