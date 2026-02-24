@@ -24,15 +24,15 @@ export const portfolioContent = {
     categories: [
       {
         name: "Frontend Development",
-        skills: ["React", "TypeScript", "Next.js", "Angular", "Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Sematic UI", "Material UI"]
+        skills: ["React", "TypeScript", "Next.js", "Angular", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Sematic UI", "Material UI", "Clsx"]
       },
       {
         name: "Backend & APIs",
-        skills: ["Node.js", "Express", "NestJS", "REST APIs", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
+        skills: ["Node.js", "Express", "NestJS", "REST APIs", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
       },
       {
         name: "DevOps & Cloud",
-        skills: ["AWS", "Docker", "Kubernetes", "Openshift", "CI/CD", "GitHub Actions", "Vercel", "Nginx", "Heroku", "Netlify"]
+        skills: ["AWS", "Docker", "Kubernetes", "Openshift", "CI/CD", "GitHub Actions", "Vercel", "Render", "Nginx", "Heroku", "Netlify"]
       },
       {
         name: "Leadership & Process & Tools",
