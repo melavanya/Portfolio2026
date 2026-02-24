@@ -24,11 +24,11 @@ export const portfolioContent = {
     categories: [
       {
         name: "Frontend Development",
-        skills: ["React", "TypeScript", "Next.js", "Angular", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Sematic UI", "Material UI", "Clsx"]
+        skills: ["React", "TypeScript", "Next.js", "Angular", "Ionic", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Sematic UI", "Material UI", "Clsx"]
       },
       {
         name: "Backend & APIs",
-        skills: ["Node.js", "Express", "NestJS", "REST APIs", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
+        skills: ["Node.js", "Express", "Nest.js", "REST APIs", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
       },
       {
         name: "DevOps & Cloud",
