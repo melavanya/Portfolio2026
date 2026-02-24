@@ -46,6 +46,7 @@ export function HeroSection() {
           <h2 className="text-2xl md:text-3xl lg:text-4xl text-primary font-semibold mb-6 animate-fade-in">
             {hero.title}
           </h2>
+          <h3 className="text-lg md:text-xl text-muted-foreground mb-6 animate-fade-in">{hero.location}</h3>
           <p className="text-xl md:text-2xl text-muted-foreground mb-6 max-w-3xl mx-auto text-balance animate-fade-in">
             {hero.tagline}
           </p>
