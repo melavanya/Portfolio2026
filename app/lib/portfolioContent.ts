@@ -6,7 +6,7 @@ export const portfolioContent = {
   },
   hero: {
     name: "Lavanya Sethuraman",
-    title: "Senior Lead JavaScript Developer",
+    title: "Senior Full-stack Developer / Lead",
     location: "Atlanta, GA",
     tagline: "Building scalable web applications and leading high-performing engineering teams",
     description: "9+ years of experience architecting modern web solutions, mentoring developers, and driving technical excellence across the full stack.",
