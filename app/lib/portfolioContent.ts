@@ -14,7 +14,7 @@ export const portfolioContent = {
   about: {
     title: "About Me",
     paragraphs: [
-    "I’m a passionate Senior Lead JavaScript Developer with over nine years of experience designing, building, and scaling web applications. My journey in software engineering has evolved from hands-on development to leading teams and architecting complex, high-impact systems that support large-scale user bases.",
+    "I’m a passionate Senior Full-stack Lead Developer with over nine years of experience designing, building, and scaling web applications. My journey in software engineering has evolved from hands-on development to leading teams and architecting complex, high-impact systems that support large-scale user bases.",
     "I specialize in modern JavaScript frameworks, cloud-native architecture, and high-performance application design. Beyond writing code, I’m deeply committed to mentoring engineers, driving technical excellence, and cultivating collaborative environments where innovation, ownership, and continuous improvement thrive.",
     "I’m currently seeking opportunities where I can leverage my technical expertise and leadership experience to drive meaningful impact. I’m eager to contribute to forward-thinking teams, solve complex engineering challenges, and help organizations build scalable, competitive solutions while continuing to grow as a technology leader."
     ]
