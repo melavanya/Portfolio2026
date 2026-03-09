@@ -1,3 +1,5 @@
+import { Accessibility } from "lucide-react";
+
 export const portfolioContent = {
   brand: {
     name: "Lavanya Sethuraman",
@@ -24,11 +26,11 @@ export const portfolioContent = {
     categories: [
       {
         name: "Frontend Development",
-        skills: ["React", "TypeScript", "Next.js", "Angular", "Ionic", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Semantic UI", "Material UI", "Clsx"]
+        skills: ["React", "TypeScript", "Next.js", "Angular", "Ionic", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Semantic UI", "Material UI", "Clsx", "Accessibility", "Observability", "Web Vitals", "Performance Optimization"]
       },
       {
         name: "Backend & APIs",
-        skills: ["Node.js", "Express", "Nest.js", "REST APIs", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
+        skills: ["Node.js", "Express", "Nest.js", "REST APIs", "GraphQL", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
       },
       {
         name: "DevOps & Cloud",
