@@ -26,7 +26,7 @@ export const portfolioContent = {
     categories: [
       {
         name: "Frontend Development",
-        skills: ["React", "TypeScript", "Next.js", "Angular", "Ionic", "Flutter", "React Native","Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Semantic UI", "Material UI", "Clsx", "Accessibility", "Observability", "Web Vitals", "Performance Optimization"]
+        skills: ["React", "TypeScript", "Next.js", "Angular", "Ionic", "Flutter", "React Native","React Storybook", "Redux", "MobX", "jQuery", "Outsystems", "Tailwind CSS", "Bootstrap", "Semantic UI", "Material UI", "Clsx", "Accessibility", "Observability", "Web Vitals", "Performance Optimization"]
       },
       {
         name: "Backend & APIs",
