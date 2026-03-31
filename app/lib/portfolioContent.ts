@@ -11,12 +11,12 @@ export const portfolioContent = {
     title: "Senior Full-stack Developer / Lead",
     location: "Atlanta, GA",
     tagline: "Building scalable web applications and leading high-performing engineering teams",
-    description: "9+ years of experience architecting modern web solutions, mentoring developers, and driving technical excellence across the full stack.",
+    description: "10 years of experience architecting modern web solutions, mentoring developers, and driving technical excellence across the full stack.",
   },
   about: {
     title: "About Me",
     paragraphs: [
-    "I am a passionate Senior Full-stack Lead Developer with over nine years of experience designing, building, and scaling web applications. My journey in software engineering has evolved from hands-on development to leading teams and architecting complex, high-impact systems that support large-scale user bases.",
+    "I am a passionate Senior Full-stack Lead Developer with over ten years of experience designing, building, and scaling web applications. My journey in software engineering has evolved from hands-on development to leading teams and architecting complex, high-impact systems that support large-scale user bases.",
     "I specialize in modern JavaScript frameworks, cloud-native architecture, and high-performance application design. Beyond writing code, I am deeply committed to mentoring engineers, driving technical excellence, and cultivating collaborative environments where innovation, ownership, and continuous improvement thrive. I also prioritize building inclusive, accessible applications aligned with WCAG standards to ensure great user experiences for all.",
     "I am currently seeking opportunities where I can leverage my technical expertise and leadership experience to drive meaningful impact. I am eager to contribute to forward-thinking teams, solve complex engineering challenges, and help organizations build scalable, competitive solutions while continuing to grow as a technology leader."
     ]
