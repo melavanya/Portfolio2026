@@ -30,7 +30,7 @@ export const portfolioContent = {
       },
       {
         name: "Backend & APIs",
-        skills: ["Node.js", "Express", "Nest.js", "REST APIs", "GraphQL", "Java", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
+        skills: ["Node.js", "Express", "Nest.js", "REST APIs", "GraphQL", "Java", "Spring Boot", "Microservices", "Python", "MySQL", "MS SQL Server", "Oracle", "PostgreSQL", "MongoDB", "DB2", "MuleSoft", "Salesforce"]
       },
       {
         name: "DevOps & Cloud",
